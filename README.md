@@ -13,5 +13,6 @@
 * The specific enhancements include
     1. Adding the weather description to the list of potential cities
     2. Allowing the user to input their preferred temperature range for a vacation spot.
-    3. Provide the user wtih a list of potential travel destinations from which they can choose 4 cities to create a travel itinerary.
-    4. Provide a map showing a travel route between the 4 chosen cities.
+    3. Display a map showing cities throughout the world that fit the temperature range with markers showing city name and nearby hotel
+    4. Provide the user wtih a list of potential travel destinations from which they can choose 4 cities to create a travel itinerary.
+    5. Provide a map showing a travel route between the 4 chosen cities, and nearby hotel name.
